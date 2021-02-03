@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Prajwal Anagani, a CSE Under graduate student.
 
 I love math and puzzles and like to dabble in Deep learning and Crypto!!
 
-I have worked on several projects in the Computer Vision domain and also am doing research reagarding the same in the University
+I have worked on several projects in the Computer Vision (with Deep learning) domain and also am doing research regarding the same in my University
 
 I'm also a mentor @ HackerSpacePESU, [check them out!](https://www.linkedin.com/company/hackerspace-pesu)
 * * * 
