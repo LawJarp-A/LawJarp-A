@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Prajwal Anagani, a CSE Under graduate student.
+I'm Prajwal Anagani
 
 I love math and puzzles and like to dabble in Deep learning and Crypto!!
 
